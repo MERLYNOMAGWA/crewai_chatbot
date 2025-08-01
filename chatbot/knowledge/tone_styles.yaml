@@ -1,0 +1,53 @@
+professional:
+  description: "Clear, concise, and formal tone suitable for expert or business audiences."
+  keywords:
+    - executive
+    - formal
+    - technical
+    - authoritative
+    - analytical
+
+witty:
+  description: "Clever, humorous, and entertaining tone for engaging and relatable content."
+  keywords:
+    - funny
+    - sarcastic
+    - light-hearted
+    - sharp
+    - playful
+
+inspirational:
+  description: "Uplifting, motivational, and emotionally driven tone to spark action or reflection."
+  keywords:
+    - empowering
+    - emotional
+    - visionary
+    - heartfelt
+    - motivating
+
+casual:
+  description: "Friendly, conversational, and relaxed tone for broad, informal audiences."
+  keywords:
+    - simple
+    - chill
+    - everyday
+    - relatable
+    - informal
+
+analytical:
+  description: "Data-driven and logical tone, ideal for breaking down complex topics."
+  keywords:
+    - logical
+    - evidence-based
+    - structured
+    - neutral
+    - technical
+
+controversial:
+  description: "Provocative, bold tone that challenges norms or encourages debate."
+  keywords:
+    - provocative
+    - bold
+    - challenging
+    - opinionated
+    - edgy
